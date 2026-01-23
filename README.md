@@ -4,7 +4,7 @@
 function darAccesoATodasLasHojas() {
   var ss = SpreadsheetApp.getActiveSpreadsheet();
   var hojas = ss.getSheets();
-  var miEmail = "xxplaygame02xx@gmail.com"; 
+  var miEmail = ""; 
 
   hojas.forEach(function(hoja) {
     var protecciones = hoja.getProtections(SpreadsheetApp.ProtectionType.SHEET);
