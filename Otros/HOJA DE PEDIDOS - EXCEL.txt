@@ -1,0 +1,23 @@
+HOJA DE PEDIDOS - EXCEL
+Pag. BASE CLIENTES: https://docs.google.com/spreadsheets/d/1wUoMJg8gMoLTUL6sLGXXQVZkboKd6Zc9n3ODMrd2kzk/edit?gid=1191807830#gid=1191807830
+Pag. BASE CLIENTES - Conexión: NO APLICA
+
+Pag. CLI CAN ANTICI: https://docs.google.com/spreadsheets/d/1wUoMJg8gMoLTUL6sLGXXQVZkboKd6Zc9n3ODMrd2kzk/edit?gid=880690070#gid=880690070
+Pag. CLI CAN ANTICI - Conexión (D, E, F): https://docs.google.com/spreadsheets/d/1nMmcyc9bCWiZaJ3oayNsgWrBrDmoU17LPhQ8cxw7xxI/edit#gid=1297009847
+
+Pag. RUTAS DOMINGOS: https://docs.google.com/spreadsheets/d/1wUoMJg8gMoLTUL6sLGXXQVZkboKd6Zc9n3ODMrd2kzk/edit?gid=373595265#gid=373595265
+Pag. RUTAS DOMINGOS - Conexión (B, C, D): https://docs.google.com/spreadsheets/d/1nMmcyc9bCWiZaJ3oayNsgWrBrDmoU17LPhQ8cxw7xxI/edit#gid=1297009847
+
+Pag. RUTAS SAN PEDRO: https://docs.google.com/spreadsheets/d/1wUoMJg8gMoLTUL6sLGXXQVZkboKd6Zc9n3ODMrd2kzk/edit?gid=1093044334#gid=1093044334
+Pag. RUTAS SAN PEDRO - Conexión (B, C, D): https://docs.google.com/spreadsheets/d/1nMmcyc9bCWiZaJ3oayNsgWrBrDmoU17LPhQ8cxw7xxI/edit#gid=1297009847
+
+Pag. CAJA: https://docs.google.com/spreadsheets/d/1wUoMJg8gMoLTUL6sLGXXQVZkboKd6Zc9n3ODMrd2kzk/edit?gid=1614290243#gid=1614290243
+Pag. CAJA - Conexión: https://docs.google.com/spreadsheets/d/1nMmcyc9bCWiZaJ3oayNsgWrBrDmoU17LPhQ8cxw7xxI/edit#gid=1297009847
+
+
+HOJA DE BASE DE DATOS - EXCEL
+Pag. BASE: https://docs.google.com/spreadsheets/d/1nMmcyc9bCWiZaJ3oayNsgWrBrDmoU17LPhQ8cxw7xxI/edit?gid=1297009847#gid=1297009847
+Pag. PLANTILLA FORMULA - Conexión (B): https://docs.google.com/spreadsheets/d/1nMmcyc9bCWiZaJ3oayNsgWrBrDmoU17LPhQ8cxw7xxI/edit#gid=1297009847
+Pag. PLANTILLA FORMULA - Conexión (C,D ): https://docs.google.com/spreadsheets/d/1wUoMJg8gMoLTUL6sLGXXQVZkboKd6Zc9n3ODMrd2kzk/edit#gid=1191807830
+
+
