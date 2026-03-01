@@ -1,8 +1,0 @@
-1. Crear columna zona en todas las hojas que lo necesiten
-2. Actualizar link de conexión con la db en todas las hojas
-
-Hoja: Base de Datos
-3. Crear hoja que almacenara los datos
-4. Insertar datos en la hoja creada (Columna A: Barrios, Columna B: Zonas)
-5. Copiar columna Barrio para guía
-6. Insertar formula en E2 (=ARRAYFORMULA(SI(D2:D=""; ""; BUSCARV(D2:D; 'BARRIO - ZONAS'!$A$2:$B; 2; FALSO))))
