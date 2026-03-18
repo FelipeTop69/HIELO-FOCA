@@ -1,0 +1,20 @@
+[
+  {
+    "zoneId": 1,
+    "operatingGroupId": 1,
+    "date": "2025-02-02T09:00:00",
+    "observations": "Inventario inicial sin novedades excepto un switch.",
+    "invitationCode": "D8K4",
+    "status": "Verified",
+    "active": true
+  },
+  {
+    "zoneId": 4,
+    "operatingGroupId": 2,
+    "date": "2025-03-11T10:00:00",
+    "observations": "Inventario de taller - todos los equipos en orden.",
+    "invitationCode": "D6K9",
+    "status": "Verified",
+    "active": true
+  }
+]
